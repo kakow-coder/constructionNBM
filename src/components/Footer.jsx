@@ -40,7 +40,7 @@ const Footer = () => {
                 </div>
               </div>
               <div>
-                <h3 className="text-xl font-bold">ConstrutorMax</h3>
+                <h3 className="text-xl font-bold">Loja BBM</h3>
                 <p className="text-sm text-gray-400">Materiais de Construção</p>
               </div>
             </div>
@@ -102,7 +102,7 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Mail size={18} className="text-orange-500" />
                 <div>
-                  <p className="text-white">contato@construtormax.com.br</p>
+                  <p className="text-white">contato@construtora.com.br</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">
@@ -125,7 +125,7 @@ const Footer = () => {
         <div className="container mx-auto px-4 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-gray-400 text-sm text-center md:text-left">
-              © 2024 ConstrutorMax. Todos os direitos reservados.
+              © 2024 Construtora. Todos os direitos reservados.
             </p>
             <div className="flex space-x-6 text-sm">
               <span className="text-gray-400">Formas de Pagamento:</span>
