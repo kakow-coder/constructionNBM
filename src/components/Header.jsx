@@ -37,7 +37,7 @@ const Header = ({ onCategoryClick, onCartClick, onSearchChange }) => {
             </div>
             <div className="flex items-center space-x-1">
               <Mail size={14} />
-              <span>contato@construtormax.com.br</span>
+              <span>contato@construtora.com.br</span>
             </div>
           </div>
           <div className="hidden md:block">
