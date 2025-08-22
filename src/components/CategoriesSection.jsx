@@ -2,7 +2,7 @@ import React from 'react';
 import { Button } from '@/components/ui/button';
 import { ArrowRight } from 'lucide-react';
 import { categories } from '../data/products';
-import {image} from '@/assets/images/produtos';
+
 
 const CategoriesSection = ({ onCategoryClick }) => {
   return (
