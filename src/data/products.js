@@ -219,7 +219,7 @@ export const categories = [
   {
     id: 2,
     name: "Tijolos e Blocos",
-    image: "/src/assets/images/produtos/tijolo_baiano.jpg",
+    image: "https://hzksjbnudhswgqmccfnu.supabase.co/storage/v1/object/public/imagens-site-leco/logos/Untitled%20folder/tj.jpg",
     description: "Tijolos cerâmicos, blocos de concreto e vedação"
   },
   {
