@@ -213,7 +213,7 @@ export const categories = [
   {
     id: 1,
     name: "Cimento e Argamassa",
-    image: "/src/assets/images/produtos/cimento_portland.jpg",
+    image: "https://hzksjbnudhswgqmccfnu.supabase.co/storage/v1/object/public/imagens-site-leco/logos/Untitled%20folder/cimento_portland.jpg",
     description: "Cimentos, argamassas e materiais para fundação"
   },
   {
