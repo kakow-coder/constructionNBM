@@ -5,7 +5,7 @@ export const products = [
     category: "Cimento e Argamassa",
     price: 24.90,
     originalPrice: 29.90,
-    image: "/src/assets/images/produtos/cimento_portland.jpg",
+    image: "https://hzksjbnudhswgqmccfnu.supabase.co/storage/v1/object/public/imagens-site-leco/logos/Untitled%20folder/cimento_portland.jpg",
     description: "Cimento Portland composto com escória, ideal para obras em geral. Saco de 50kg.",
     specifications: {
       "Peso": "50kg",
