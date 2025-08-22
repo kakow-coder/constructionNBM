@@ -22,7 +22,7 @@ export const products = [
     name: "Tijolo Baiano 19x19x29",
     category: "Tijolos e Blocos",
     price: 0.85,
-    image: "https://github.com/kakow-coder/constructionNBM/blob/main/src/assets/images/produtos/tijolo_baiano.jpg",
+    image: "src/assets/images/produtos/tijolo_baiano.jpg",
     description: "Tijolo baiano de qualidade superior, ideal para alvenaria de vedação.",
     specifications: {
       "Dimensões": "19x19x29cm",
